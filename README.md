@@ -1,11 +1,10 @@
 ---
 
 <h1 align="center">Bio;</h1>
-
-    <h3> align="center">Hello, I'm Cesare, and I'm from Italy!</h3>
-    <h3 align="center">My preferred pronouns are she/her, but any is fine, really! :)</h3>
-    <h3 align="center">I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )</h3>
-    <h3 align="center">I'm a very picky & opinionated person, it's either hate me, or love me. If you ever want to contact me, feel free to do so, you can contact me via the following ways;</h3>
+<h3 align="center">Hello, I'm Cesare, and I'm from Italy!</h3>
+<h3 align="center">My preferred pronouns are she/her, but any is fine, really! :)</h3>
+<h3 align="center">I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )</h3>
+<h3 align="center">I'm a very picky & opinionated person, it's either hate me, or love me. If you ever want to contact me, feel free to do so, you can contact me via the following ways;</h3>
 
 <ul>
 
