@@ -1,33 +1,30 @@
----
 
-<h1 align="center">Bio;</h1>
-<h3 align="center">Hello, I'm Cesare, and I'm from Italy!</h3>
-<h3 align="center">My preferred pronouns are she/her, but any is fine, really! :)</h3>
-<h3 align="center">I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )</h3>
-<h3 align="center">I'm a very picky & opinionated person, it's either hate me, or love me. If you ever want to contact me, feel free to do so, you can contact me via the following ways;</h3>
+```diff
+Bio;</h1>
++ Hello, I'm Cesare, and I'm from Italy!
++ My preferred pronouns are she/her, but any is fine, really! :)
++ I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )
+- I'm a very picky & opinionated person, it's either hate me, or love me. If you ever want to contact me, feel free to do so, you can contact me via the following ways;
 
-<ul>
-
-<li align="center">e-mail: femboy@sach1.tk</li>
-<li align="center">discord: sach#0001</li>
-<li align="center">twitter: ya_sach1</li>
-
-</ul>
++ e-mail: femboy@sach1.tk
++ discord: <code>sach#0001
++ twitter: ya_sach1
+```
 
 ---
 
 <h1 align="center">Some of my tools & skills;</h1>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=IDE&message=IntelliJ%20IDEA&color=orange&logo=intellij-idea&style=for-the-badge&logoColor=coral">
-  <img src="https://img.shields.io/static/v1?&label=Distro&message=Arch&color=blue&logo=arch%20linux&style=for-the-badge&logoColor=light%20blue">
-  <img src="https://img.shields.io/static/v1?label=Shell&message=ZSH&color=black&logo=gnu-bash&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?label=Editor&message=Vim&color=green&logo=vim&style=for-the-badge&logoColor=green">
-  <img align="center" src="https://img.shields.io/static/v1?&label=Software&message=Docker&color=blue&logo=docker&style=for-the-badge&logoColor=light%20blue">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=IDE&message=IntelliJ%20IDEA&color=orange&logo=intellij-idea&style=for-the-badge&logoColor=coral">
+<img src="https://img.shields.io/static/v1?&label=Distro&message=Arch&color=blue&logo=arch%20linux&style=for-the-badge&logoColor=light%20blue">
+<img src="https://img.shields.io/static/v1?label=Shell&message=ZSH&color=black&logo=gnu-bash&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=Editor&message=Vim&color=green&logo=vim&style=for-the-badge&logoColor=green">
+<img src="https://img.shields.io/static/v1?&label=Software&message=Docker&color=blue&logo=docker&style=for-the-badge&logoColor=light%20blue">
 
 ---
 
