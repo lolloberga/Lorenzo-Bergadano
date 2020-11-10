@@ -1,6 +1,6 @@
 
 ```diff
-Bio;</h1>
+Bio;
 + Hello, I'm Cesare, and I'm from Italy!
 + My preferred pronouns are she/her, but any is fine, really! :)
 + I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )
@@ -14,6 +14,7 @@ Bio;</h1>
 ---
 
 <h1 align="center">Some of my tools & skills;</h1>
+<div>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -25,7 +26,7 @@ Bio;</h1>
 <img src="https://img.shields.io/static/v1?label=Shell&message=ZSH&color=black&logo=gnu-bash&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/static/v1?label=Editor&message=Vim&color=green&logo=vim&style=for-the-badge&logoColor=green">
 <img src="https://img.shields.io/static/v1?&label=Software&message=Docker&color=blue&logo=docker&style=for-the-badge&logoColor=light%20blue">
-
+</div>
 ---
 
 <h1 align="center">Some boring stats;<h1>
