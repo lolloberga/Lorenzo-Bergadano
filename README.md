@@ -28,12 +28,13 @@ Bio;
 <img src="https://img.shields.io/static/v1?label=Editor&message=Vim&color=green&logo=vim&style=for-the-badge&logoColor=green">
 <img src="https://img.shields.io/static/v1?&label=Software&message=Docker&color=blue&logo=docker&style=for-the-badge&logoColor=light%20blue">
 </div>
+
 ---
 
 <h1 align="center">Some boring stats;<h1>
 
 <a href="https://github.com/ya-sach1/ya-sach1">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sach1&hide=shell,lua,vim%20script,dockerfile&hide_border=true"/></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sach1&hide=shell,lua,vim%20script,dockerfile,javascript&hide_border=true"/></a>
 <a href="https://github.com/ya-sach1/ya-sach1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ya-sach1&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
