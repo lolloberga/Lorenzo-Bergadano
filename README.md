@@ -6,7 +6,7 @@ Bio;
 + I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )
 - I'm a very picky & opinionated person, it's either hate me, or love me.
 
-If you ever want to contact me, feel free to do so, you can contact me via the following ways;
++ If you ever want to contact me, feel free to do so, you can contact me via the following ways;
 + e-mail: femboy@sach1.tk
 + discord: <code>sach#0001
 + twitter: ya_sach1
