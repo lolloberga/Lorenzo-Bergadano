@@ -8,7 +8,7 @@ Bio;
 
 + If you ever want to contact me, feel free to do so, you can contact me via the following ways;
 + e-mail: femboy@sach1.tk
-+ discord: <code>sach#0001
++ discord: sach#0001
 + twitter: ya_sach1
 ```
 
