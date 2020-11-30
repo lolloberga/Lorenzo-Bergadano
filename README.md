@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/git%20-%FCC624.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=goland&style=for-the-badge&logoColor=coral">
-<img src="https://img.shields.io/static/v1?&label=Distro&message=Feren-OS&color=blue&logo=feren-os%20linux&style=for-the-badge&logoColor=light%20blue">
+<img src="https://img.shields.io/static/v1?&label=Distro&message=Feren-OS&color=blue&logo=feren%20os&style=for-the-badge&logoColor=light%20blue">
 <img src="https://img.shields.io/static/v1?label=Shell&message=ZSH&color=black&logo=gnu-bash&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/static/v1?label=Editor&message=Vim&color=green&logo=vim&style=for-the-badge&logoColor=green">
 <img src="https://img.shields.io/static/v1?&label=Software&message=Docker&color=blue&logo=docker&style=for-the-badge&logoColor=light%20blue">
