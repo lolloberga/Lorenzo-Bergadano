@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=assembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%FCC624.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
@@ -25,10 +25,10 @@
 
 ---
 
-<h1 align="center">Some boring stats;<h1>
+<h1 align="center">My STATS<h1>
 
 <a href="https://github.com/ya-sach1/ya-sach1">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sach1&hide=shell,lua,vim%20script,dockerfile,javascript&hide_border=true"/></a>
+   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/&hide_border=true"/></a>
 <a href="https://github.com/ya-sach1/ya-sach1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ya-sach1&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
