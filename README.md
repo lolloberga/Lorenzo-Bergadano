@@ -11,7 +11,7 @@
 <h1 align="center">Some of my tools & skills;</h1>
 <div>
 <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/cs%20-%2343853D.svg?&style=for-the-badge&logo=cs&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp%20-%2343853D.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
