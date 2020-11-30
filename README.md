@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">Some of my tools & skills;</h1>
+<h1 align="center">Some of my tools & skills</h1>
 <div>
 <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -28,7 +28,7 @@
 <h1 align="center">My STATS<h1>
 
 <a href="https://github.com/gyro7/gyro7">
-   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/&hide_border=true"/></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyro7&hide=shell,lua,vim%20script,dockerfile,javascript&hide_border=true"/></a>
 <a href="https://github.com/ya-sach1/ya-sach1">
   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=gyro7&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
