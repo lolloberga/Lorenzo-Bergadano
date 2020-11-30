@@ -1,7 +1,8 @@
 
 ```diff
 Bio;
-+ Hello, I'm Liam, and I'm from Italy! I like Go, no bruh I love GO (almost all my projects if not all of them are written in go)
++ Hello, I'm Liam, and I'm from Italy! I like Go, no bruh I love GO 
+  (almost all my projects if not all of them are written in go)
 + I love manga and anime, even more if we're talking about JOJO! ( I capitalize it as a sign of respect. )
 + If you ever want to contact me, feel free to do so;
 + e-mail: gyro@sach1.tk
