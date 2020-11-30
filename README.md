@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=goland&style=for-the-badge&logoColor=coral">
 <img src="https://img.shields.io/static/v1?&label=Distro&message=Feren-OS&color=blue&logo=feren%20os&style=for-the-badge&logoColor=light%20blue">
-<img src="https://img.shields.io/static/v1?label=Shell&message=Konsole&color=black&logo=gnu-shell&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/static/v1?label=Editor&message=Vim&color=green&logo=vim&style=for-the-badge&logoColor=green">
-<img src="https://img.shields.io/static/v1?&label=Software&message=Docker&color=blue&logo=docker&style=for-the-badge&logoColor=light%20blue">
+<img src="https://img.shields.io/static/v1?label=Shell&message=Konsole&color=black&logo=powershell&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
+<img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
 </div>
 
 ---
