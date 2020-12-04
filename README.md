@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/static/v1?label=Shell&message=Konsole&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
-  <img src="https://img.shields.io/static/v1?&label=Browser&message=Chromium&color=cyan&logo=chrome&style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/static/v1?&label=Browser&message=Chromium&color=cyan&logo=google-chrome&style=for-the-badge&logoColor=black">
 </div>
 
 ---
