@@ -19,11 +19,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+<h1 align="center">Tools</h1>
+<div align="center">
   <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
   <img src="https://img.shields.io/badge/Feren%20OS%20-%23black?&style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?label=Shell&message=Konsole&color=black&logo=powershell&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-  badge&logoColor=green">
-  <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-     badge&logoColor=light%20blue">
+  <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
+  <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
 </div>
 
 ---
