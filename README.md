@@ -37,7 +37,7 @@
 <a href="https://github.com/gyro7/gyro7">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyro7&hide_border=true"/></a>
 <a href="https://github.com/gyro7/gyro7">
-  <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=gyro7&hide_border=true&show_icons=true&count_private=true&langs_count=10&?theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=gyro7&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
 </a>
 
 ---
