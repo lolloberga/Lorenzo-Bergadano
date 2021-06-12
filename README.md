@@ -3,7 +3,7 @@
 + I love manga and anime, even more if we're talking about JOJO! ( I capitalize it as a sign of respect. )
 + If you ever want to contact me, feel free to do so;
 + e-mail: gyro@sach1.tk
-+ discord: Gyro#6638
++ discord: Gyro#2077
 + reddit: DLGaming7
 
 ---
