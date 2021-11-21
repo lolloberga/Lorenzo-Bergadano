@@ -11,6 +11,7 @@
 <h1 align="center">Skills</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/C/C++%20-%23323330.svg?&style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>
   <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
@@ -23,9 +24,11 @@
 <h1 align="center">Tools</h1>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
+  <img src="https://img.shields.io/static/v1?label=IDE&message=CLion&color=yellow&logo=intellij-idea&style=for-the-badge&logoColor=coral">
   <img src="https://img.shields.io/static/v1?label=Distro&message=Artix&color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Editor&message=VIM&color=cyan&logo=vim&style=for-the-badge&logoColor=green">
+  <img src="https://img.shields.io/static/v1?label=Editor&message=Codium&color=blue&logo=visualstudiocode&style=for-the-badge&logoColor=cyan">
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Waterfox&color=blue&logo=firefox&style=for-the-badge&logoColor=yellow">
 </div>
