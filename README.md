@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart%20-ff0006.svg?&style=for-the-badge&logo=dart&logoColor=cyan"/>
 </div>
 <h1 align="center">Tools</h1>
 <div align="center">
