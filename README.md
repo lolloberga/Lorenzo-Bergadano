@@ -23,9 +23,9 @@
 
 <h1 align="center">My STATS<h1>
 
-<a href="https://github.com/Alessandro-Salerno/gyro7">
+<a href="https://github.com/Alessandro-Salerno/Alessandro-Salerno">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Salerno&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/Alessandro-Salerno/gyro7">
+<a href="https://github.com/Alessandro-Salerno/Alessandro-Salerno">
   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=Alessandro-Salerno&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
 </a>
 
