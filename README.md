@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/-React-lightblue?&style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/git%20-%23121011.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Numpy-013243?&style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
 <h1 align="center">Tools</h1>
