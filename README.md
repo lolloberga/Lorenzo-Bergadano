@@ -32,7 +32,7 @@
 
 ---
 
-<h1 align="center">My STATS<h1>
+<!--<h1 align="center">My STATS<h1>-->
 <table border="0" width="100%">
 <tr>
   <td>
@@ -46,7 +46,7 @@
   </td>-->
   <td>
     <a href="https://github.com/lolloberga/Lorenzo-Bergadano">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical" width="80%"/>
     </a>
   </td>
 </tr>
