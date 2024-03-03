@@ -51,7 +51,7 @@
   </td>
 </tr>
 <tr>
-  <td valign="top" colspan="2">
+  <td valign="top" colspan="2" align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lolloberga?logo=git&logoColor=white&style=for-the-badge">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lolloberga?affiliations=COLLABORATOR&logo=startrek&logoColor=white&style=for-the-badge">
   </td>
