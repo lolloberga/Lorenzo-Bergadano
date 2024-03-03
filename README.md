@@ -45,7 +45,9 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lolloberga?affiliations=COLLABORATOR&logo=startrek&logoColor=white&style=for-the-badge">
   </td>-->
   <td>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/lolloberga/Lorenzo-Bergadano">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical"/>
+    </a>
   </td>
 </tr>
 </table>
