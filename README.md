@@ -35,7 +35,7 @@
 <!--<h1 align="center">My STATS<h1>-->
 <table border="0" width="100%">
 <tr>
-  <td>
+  <td align="center">
     <a href="https://github.com/lolloberga/Lorenzo-Bergadano">
       <img align="center" src="https://github-readme-stats-gyro7.vercel.app/api?username=lolloberga&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=dracula"/>
     </a>
@@ -44,7 +44,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lolloberga?logo=git&logoColor=white&style=for-the-badge">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lolloberga?affiliations=COLLABORATOR&logo=startrek&logoColor=white&style=for-the-badge">
   </td>-->
-  <td>
+  <td align="center">
     <a href="https://github.com/lolloberga/Lorenzo-Bergadano">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical&theme=dracula" width="80%"/>
     </a>
