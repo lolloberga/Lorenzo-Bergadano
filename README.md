@@ -33,7 +33,7 @@
 ---
 
 <!--<h1 align="center">My STATS<h1>-->
-<table border="0" width="100%">
+<table border="0" width="100%" style="border: none;">
 <tr>
   <td align="center">
     <a href="https://github.com/lolloberga/Lorenzo-Bergadano">
