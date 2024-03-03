@@ -46,7 +46,7 @@
   </td>-->
   <td>
     <a href="https://github.com/lolloberga/Lorenzo-Bergadano">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical" width="80%"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolloberga&layout=donut-vertical&theme=dracula" width="80%"/>
     </a>
   </td>
 </tr>
