@@ -65,5 +65,5 @@
   <a href="https://www.linkedin.com/in/lorenzo-bergadano-62014a1b9/?locale=en_US">
     <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&logo=linkedin&style=for-the-badge&logoColor=white">
   </a>
-  <img src="https://img.shields.io/static/v1?label=&message=lorenzobergadano@gmail.com&color=EA4335&logo=gmail&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/static/v1?label=&message=gmail&color=EA4335&logo=gmail&style=for-the-badge&logoColor=white">
 </div>
